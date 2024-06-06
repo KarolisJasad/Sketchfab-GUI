@@ -26,3 +26,7 @@ Currently supports upload of up-to 100 models at a time before getting too many 
 10.3. Red color - means the upload failed. Orange color - means the patch failed.
 
 Happy uploading!
+
+# Some Pictures of the GUI
+
+![alt text](https://github.com/KarolisJasad/Sketchfab-GUI/blob/main/SketchfabMainText.png?raw=true)

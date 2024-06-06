@@ -1,5 +1,6 @@
 # Sketchfab-GUI
-A sketchfab application to automatically upload multiple models to sketchfab using API
+A sketchfab application to automatically upload multiple models to sketchfab using API.
+The appliaction allows us to upload multiple models simultaneously rather than uploading 1 by 1 in their website.
 
 # Setup
 Install required dependencies and run the script or build it.

@@ -3,6 +3,7 @@ A sketchfab application to automatically upload multiple models to sketchfab usi
 The appliaction allows us to upload multiple models simultaneously rather than uploading 1 by 1 in their website.
 
 # Setup
+Insert your api-key in line 16 to show proper categories in GUI ( To-do, need to be updated to take it differently ).
 Install required dependencies and run the script or build it.
 setup.py build
 

@@ -29,4 +29,6 @@ Happy uploading!
 
 # Some Pictures of the GUI
 
+![alt text](https://github.com/KarolisJasad/Sketchfab-GUI/blob/main/Sketchfabmain.png?raw=true)
 ![alt text](https://github.com/KarolisJasad/Sketchfab-GUI/blob/main/SketchfabMainText.png?raw=true)
+![alt text](https://github.com/KarolisJasad/Sketchfab-GUI/blob/main/SketchfabStatus.png?raw=true)
